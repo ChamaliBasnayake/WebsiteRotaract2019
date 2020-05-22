@@ -1,0 +1,47 @@
+.fc-next-button{
+    background-color: red;
+}
+.fc .fc-button-group>*{
+    background:grey;
+}
+.fc-toolbar .fc-state-active, .fc-toolbar .ui-state-active{
+    background-color: rgb(166, 255, 0);
+}
+.fc-state-default{
+    background-color: rgb(12, 14, 11);
+}
+
+.fc-button-group{
+    background-color: blue;
+}
+.fc-widget-header{
+    background-color: rgb(9, 13, 56);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px;
+}
+
+.fc-day-grid{
+    background-color: #ffffff;
+}
+.panel-body {
+    background: #164975; }
+.fc-toolbar .fc-center {
+    color: white;
+}
+.fc th {
+    color: white;
+}
+table {
+    background-color: white;
+}
+.fc-state-default {
+    background-color: #ffffff;
+    
+}
+.fc table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 25px;
+}
